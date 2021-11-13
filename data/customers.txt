@@ -1,0 +1,8 @@
+Name;Location;Job Type;Time window Start;Time window end;Due time
+Customer1;Mannheim;Equipment Setup;0;30;60
+Customer2;Karlsruhe;Equipment Setup;30;150;180
+Customer3;Baden-Baden;Repair - Regular;60;180;240
+Customer4;Buehl;Equipment Installation;120;240;300
+Customer5;Offenburg;Equipment Installation;240;360;420
+Customer6;Lahr/Schwarzwald;Repair - Critical;300;420;480
+Customer7;Loerrach;Inspect/Service Equipment;360;480;540

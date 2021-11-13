@@ -1,0 +1,27 @@
+Technician;Job
+Albert;Equipment Setup
+Albert;Inspect/Service Equipment
+Bob;Equipment Setup
+Bob;Repair - Regular
+Bob;Repair - Urgent
+Carlos;Equipment Setup
+Carlos;Inspect/Service Equipment
+Carlos;Repair - Regular
+Carlos;Repair - Urgent
+Doris;Equipment Installation
+Doris;Equipment Setup
+Doris;Repair - Important
+Doris;Repair - Critical
+Ed;Inspect/Service Equipment
+Ed;Repair - Regular
+Ed;Repair - Urgent
+Flor;Equipment Installation
+Flor;Repair - Regular
+Flor;Repair - Important
+Flor;Repair - Urgent
+Gina;Equipment Installation
+Gina;Equipment Setup
+Gina;Repair - Regular
+Gina;Repair - Important
+Gina;Repair - Urgent
+Gina;Repair - Critical

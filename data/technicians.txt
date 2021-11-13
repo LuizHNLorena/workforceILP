@@ -1,0 +1,8 @@
+Name;Depot;Capacity
+Albert;Heidelberg;480
+Bob;Heidelberg;480
+Carlos;Freiburg im Breisgau;480
+Doris;Freiburg im Breisgau;480
+Ed;Heidelberg;480
+Flor;Freiburg im Breisgau;360
+Gina;Heidelberg;360

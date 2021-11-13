@@ -1,0 +1,37 @@
+Location Start;Location End;Tempo Viagem
+Heidelberg;Freiburg im Breisgau;120
+Heidelberg;Mannheim;24
+Heidelberg;Karlsruhe;50
+Heidelberg;Baden-Baden;67
+Heidelberg;Buehl;71
+Heidelberg;Offenburg;88
+Heidelberg;Lahr/Schwarzwald;98
+Heidelberg;Loerrach;150
+Freiburg im Breisgau;Mannheim;125
+Freiburg im Breisgau;Karlsruhe;85
+Freiburg im Breisgau;Baden-Baden;68
+Freiburg im Breisgau;Buehl;62
+Freiburg im Breisgau;Offenburg;45
+Freiburg im Breisgau;Lahr/Schwarzwald;39
+Freiburg im Breisgau;Loerrach;48
+Mannheim;Karlsruhe;53
+Mannheim;Baden-Baden;74
+Mannheim;Buehl;77
+Mannheim;Offenburg;95
+Mannheim;Lahr/Schwarzwald;106
+Mannheim;Loerrach;160
+Karlsruhe;Baden-Baden;31
+Karlsruhe;Buehl;35
+Karlsruhe;Offenburg;51
+Karlsruhe;Lahr/Schwarzwald;61
+Karlsruhe;Loerrach;115
+Baden-Baden;Buehl;16
+Baden-Baden;Offenburg;36
+Baden-Baden;Lahr/Schwarzwald;46
+Baden-Baden;Loerrach;98
+Buehl;Offenburg;30
+Buehl;Lahr/Schwarzwald;40
+Buehl;Loerrach;92
+Offenburg;Lahr/Schwarzwald;26
+Offenburg;Loerrach;80
+Lahr/Schwarzwald;Loerrach;70

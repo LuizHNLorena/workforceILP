@@ -1,0 +1,8 @@
+Job Type;Priority;Duration (min)
+Equipment Installation;2;60
+Equipment Setup;3;30
+Inspect/Service Equipment;1;60
+Repair - Regular;1;60
+Repair - Important;2;120
+Repair - Urgent;3;90
+Repair - Critical;4;60
